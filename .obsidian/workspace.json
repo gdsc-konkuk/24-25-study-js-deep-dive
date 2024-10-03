@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "0da63a6bc329850a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c90ee0ccd811b3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b9ff9c287a024e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clicelee/6장/6장.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c6d5e23e4b18c9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c7bcdc3fa9d573d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92d01b5fb49d345f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85e3e366c79cbeb0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7114b5931f6b1b5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "620edc7513bd167c",
+    "type": "split",
+    "children": [
+      {
+        "id": "add86a32df6762a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcdb0cb5417d73e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "clicelee/6장/6장.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f581f58d4105cfc0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "clicelee/6장/6장.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24ca152e4daf36ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa1a9721d0fa385e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "clicelee/6장/6장.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "2b9ff9c287a024e5",
+  "lastOpenFiles": [
+    "Screenshot 2024-10-04 at 12.37.53 AM.png",
+    "clicelee/6장/6장.md",
+    "juwonleee/asset/6강/스크린샷.md",
+    "juwonleee/asset/6강",
+    "juwonleee/asset",
+    "juwonleee",
+    "clicelee/5장/5장.md",
+    "clicelee/4장/4장.md"
+  ]
+}

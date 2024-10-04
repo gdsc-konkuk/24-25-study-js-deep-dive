@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clicelee/6장/6장.md",
+                "file": "clicelee/5장/5장.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clicelee/6장/6장.md",
+                "file": "clicelee/5장/5장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clicelee/6장/6장.md",
+                "file": "clicelee/5장/5장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clicelee/6장/6장.md"
+                "file": "clicelee/5장/5장.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "2b9ff9c287a024e5",
   "lastOpenFiles": [
-    "Screenshot 2024-10-04 at 12.37.53 AM.png",
     "clicelee/6장/6장.md",
+    "Screenshot 2024-10-04 at 12.37.53 AM.png",
     "juwonleee/asset/6강/스크린샷.md",
     "juwonleee/asset/6강",
     "juwonleee/asset",

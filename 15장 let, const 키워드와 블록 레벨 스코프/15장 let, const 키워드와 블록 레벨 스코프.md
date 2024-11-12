@@ -43,9 +43,10 @@ let foo = 1;
 
 {
 	let foo = 2;
+	console.log(foo); // 2
 }
 
-console.log(foo); // 2
+console.log(foo); // 1
 ```
 블록 레벨의 스코프를 지역 스코프로 받아들이기 때문에 `{...}` 내부에 선언된 `foo`와 전역에 선언된 `foo`는 다른 변수로 인식된다. 
 >[!warning]

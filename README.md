@@ -6,12 +6,12 @@
 | --- | ---------- | ---------- | --------------------------------------- | --- | ------- | --------------------------------------------- |
 | 1   | 2024-10-04 | 4, 5, 6    | 변수, 표현식과 문, 데이터 타입                      | 금요일 | 5:00 PM | [clicelee](https://github.com/clicelee)       |
 | 2   | 2024-11-01 | 9, 10, 11  | 타입 변환과 단축 평가, 객체 리터럴, 원시 값과 객체의 비교      | 금요일 | 5:00 PM | [Turtle-Hwan](https://github.com/Turtle-Hwan) |
-| 3   | 2024-11-08 | 12, 13     | 함수, 스코프                                 | 금요일 | 5:00 PM |    [MinboyKim](https://github.com/MinboyKim)   |
-| 4   | 2024-11-15 | 14, 15     | 전역 변수의 문제점, let, const 키워드와 블록 레벨 스코프   | 금요일 | 5:00 PM |   [hanu9257](https://github.com/hanu9257)   |
-| 5   | 2024-11-22 | 16         | 프로퍼티 어트리뷰트                              | 금요일 | 5:00 PM |    [zziglet](https://github.com/zziglet)    |
-| 6   | 2024-11-29 | 17         | 생성자 함수에 의한 객체 생성                        | 금요일 | 5:00 PM |     [xoxun](https://github.com/xoxun)    |
-| 7   | 2025-01-03 | 18         | 함수와 일급 객체                               | 금요일 | 5:00 PM |    [whddltjdwhd](https://github.com/whddltjdwhd)                                           |
-| 8   | 2025-01-10 | 19         | 프로토타입                                   | 금요일 | 5:00 PM |                                               |
+| 3   | 2024-11-08 | 12, 13     | 함수, 스코프                                 | 금요일 | 5:00 PM | [MinboyKim](https://github.com/MinboyKim)     |
+| 4   | 2024-11-15 | 14, 15     | 전역 변수의 문제점, let, const 키워드와 블록 레벨 스코프   | 금요일 | 5:00 PM | [hanu9257](https://github.com/hanu9257)       |
+| 5   | 2024-11-22 | 16         | 프로퍼티 어트리뷰트                              | 금요일 | 5:00 PM | [zziglet](https://github.com/zziglet)         |
+| 6   | 2024-11-29 | 17         | 생성자 함수에 의한 객체 생성                        | 금요일 | 5:00 PM | [xoxun](https://github.com/xoxun)             |
+| 7   | 2025-01-03 | 18         | 함수와 일급 객체                               | 금요일 | 5:00 PM | [whddltjdwhd](https://github.com/whddltjdwhd) |
+| 8   | 2025-01-10 | 19         | 프로토타입                                   | 금요일 | 5:00 PM | [Turtle-Hwan](https://github.com/Turtle-Hwan) |
 | 9   | 2025-01-17 | 20, 21     | strict mode, 빌트인 객체                     | 금요일 | 5:00 PM |                                               |
 | 10  | 2025-01-24 | 22, 23     | this, 실행 컨텍스트                           | 금요일 | 5:00 PM |                                               |
 | 11  | 2025-01-31 | 24, 25     | 클로저, 클래스                                | 금요일 | 5:00 PM |                                               |

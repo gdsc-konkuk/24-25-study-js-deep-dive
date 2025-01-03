@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"f968502e7eed2fd8","type":"group","x":-440,"y":880,"width":1320,"height":1160,"label":"turtlehwan"},
+		{"id":"f4a3165156d37149","type":"group","x":-440,"y":-400,"width":1320,"height":1120,"label":"clicelee"},
+		{"id":"6d2797dbe06016bb","type":"file","file":"04장 변수/4장 변수.md","x":-420,"y":-380,"width":400,"height":400},
+		{"id":"6a9bbe216c6b1f68","type":"file","file":"05장 표현식과 문/5장 표현식과 문.md","x":20,"y":-380,"width":400,"height":400},
+		{"id":"e188df5fe9e893e9","type":"file","file":"06장 데이터 타입/6장 데이터 타입.md","x":460,"y":-380,"width":400,"height":400},
+		{"id":"660929b8ed9ef260","type":"link","url":"https://github.com/gdsc-konkuk/24-25-study-js-deep-dive/pull/1","x":-420,"y":160,"width":1280,"height":520},
+		{"id":"a93dc9c6e305f36c","type":"file","file":"09장 타입 변환과 단축 평가/9장 타입 변환과 단축 평가.md","x":-420,"y":900,"width":400,"height":400},
+		{"id":"483c552cc573af52","type":"file","file":"10장 객체 리터럴/10장 객체 리터럴.md","x":20,"y":900,"width":400,"height":400},
+		{"id":"8ab13247825622da","type":"link","url":"https://github.com/gdsc-konkuk/24-25-study-js-deep-dive/pull/2","x":-420,"y":1500,"width":1280,"height":460},
+		{"id":"a7a52ff1e7038438","type":"file","file":"11장 원시 값과 객체의 비교/11장 원시 값과 객체의 비교.md","x":460,"y":900,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"8f2352ae1be70d64","fromNode":"6d2797dbe06016bb","fromSide":"right","toNode":"6a9bbe216c6b1f68","toSide":"left"},
+		{"id":"c8d0f1f72c2168e2","fromNode":"6a9bbe216c6b1f68","fromSide":"right","toNode":"e188df5fe9e893e9","toSide":"left"},
+		{"id":"8c6a0178132d704e","fromNode":"a93dc9c6e305f36c","fromSide":"right","toNode":"483c552cc573af52","toSide":"left"},
+		{"id":"aa69ad0f747a57d6","fromNode":"6d2797dbe06016bb","fromSide":"bottom","toNode":"660929b8ed9ef260","toSide":"top"},
+		{"id":"e4d2b3844e92877c","fromNode":"6a9bbe216c6b1f68","fromSide":"bottom","toNode":"660929b8ed9ef260","toSide":"top"},
+		{"id":"0b5e23ebc114cae4","fromNode":"e188df5fe9e893e9","fromSide":"bottom","toNode":"660929b8ed9ef260","toSide":"top"},
+		{"id":"5ac64141f5bb09a7","fromNode":"a93dc9c6e305f36c","fromSide":"bottom","toNode":"8ab13247825622da","toSide":"top"},
+		{"id":"366a20e930df53d2","fromNode":"483c552cc573af52","fromSide":"bottom","toNode":"8ab13247825622da","toSide":"top"},
+		{"id":"ce8b2578cc0cddb3","fromNode":"483c552cc573af52","fromSide":"right","toNode":"a7a52ff1e7038438","toSide":"left"},
+		{"id":"70b0074884215c09","fromNode":"f4a3165156d37149","fromSide":"bottom","toNode":"f968502e7eed2fd8","toSide":"top"},
+		{"id":"0fe48caeabfa28f9","fromNode":"a7a52ff1e7038438","fromSide":"bottom","toNode":"8ab13247825622da","toSide":"top"}
+	]
+}

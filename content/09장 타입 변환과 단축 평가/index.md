@@ -97,7 +97,9 @@ const bar = u || v || x || y || z; // bar == 가장 먼저 falsy인 값
 
 > 상세한 설명이 보고 싶다면 [여기](https://javascript.info/logical-operators)로
 
-> [!info] 객체가 null 또는 undefined가 아닌지 확인하고 객체의 프로퍼티 참조할 때 && 사용
+> [!note]
+>
+> 객체가 null 또는 undefined가 아닌지 확인하고 객체의 프로퍼티 참조할 때 && 사용
 >
 > ```js
 > var obj = null;
@@ -107,7 +109,9 @@ const bar = u || v || x || y || z; // bar == 가장 먼저 falsy인 값
 > var prop = obj?.prop; //ES11에서 새로 도입된 옵셔널 체이닝 연산자
 > ```
 
-> [!info] 함수 매개변수에 기본값을 설정할 때 || 사용
+> [!note]
+>
+> 함수 매개변수에 기본값을 설정할 때 || 사용
 >
 > - 함수 호출 시 인수 전달이 없으면 매개변수에 자동으로 undefined 할당
 > - 단축 평가를 통해 매개변수 기본값 설정해서 undefined 방지

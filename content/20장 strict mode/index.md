@@ -1,4 +1,4 @@
-# 20장: strict mode
+# 20장 strict mode
 
 # strict mode란?
 

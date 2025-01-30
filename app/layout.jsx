@@ -8,14 +8,26 @@ export const metadata = {
   // For more information on metadata API, see: https://nextjs.org/docs/app/building-your-application/optimizing/metadata
 };
 
-const banner = <Banner storageKey="some-key">Nextra 4.0 is released 🎉</Banner>;
+const banner = (
+  <Banner storageKey="some-key">🎉 Welcome to JS World!!! 🎉</Banner>
+);
 const navbar = (
   <Navbar
-    logo={<b>Nextra</b>}
+    logo={
+      <b style={{ display: "flex", alignItems: "center", gap: "1rem" }}>
+        <img
+          src="https://avatars.githubusercontent.com/u/140731649?s=200&v=4"
+          width="40px"
+        />
+        <strong>GDG On Campus Konkuk</strong>
+      </b>
+    }
     // ... Your additional navbar options
   />
 );
-const footer = <Footer>MIT {new Date().getFullYear()} © Nextra.</Footer>;
+const footer = (
+  <Footer>MIT {new Date().getFullYear()} © GDG On Campus Konkuk</Footer>
+);
 
 export default async function RootLayout({ children }) {
   return (
@@ -28,7 +40,14 @@ export default async function RootLayout({ children }) {
       suppressHydrationWarning
     >
       <Head
-      // ... Your additional head options
+        // ... Your additional head options
+        children={
+          <link
+            rel="icon"
+            href="https://avatars.githubusercontent.com/u/140731649?s=200&v=4"
+            sizes="any"
+          />
+        }
       >
         {/* Your additional tags should be passed as `children` of `<Head>` element */}
       </Head>
@@ -37,7 +56,7 @@ export default async function RootLayout({ children }) {
           banner={banner}
           navbar={navbar}
           pageMap={await getPageMap()}
-          docsRepositoryBase="https://github.com/shuding/nextra/tree/main/docs"
+          docsRepositoryBase="https://github.com/gdsc-konkuk/24-25-study-js-deep-dive"
           footer={footer}
           // ... Your additional layout options
         >

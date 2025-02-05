@@ -14,9 +14,10 @@
 | 8   | 2025-01-05 | 19         | [프로토타입](https://github.com/gdsc-konkuk/24-25-study-js-deep-dive/pull/13)                                   | 일요일  | 6:00 PM | [clicelee](https://github.com/clicelee)  |
 | 9   | 2025-01-19 | 20, 21     | [strict mode, 빌트인 객체](https://github.com/gdsc-konkuk/24-25-study-js-deep-dive/pull/15)                    | 일요일   | 6:00 PM | [joeuns](https://github.com/joeuns)             |
 | 10  | 2025-01-19 | 22, 23     | [this, 실행 컨텍스트](https://github.com/gdsc-konkuk/24-25-study-js-deep-dive/pull/16)                           | 일요일   | 6:00 PM | [Turtle-Hwan](https://github.com/Turtle-Hwan)       |
+| ??  | 2025-02-24~25 | 스키장 엠티     | 스키장 엠티! | 월요일, 화요일   | 10:00 AM |     |
 | 11  | 2025-02-05 | 24, 25     | [클로저, 클래스](https://github.com/gdsc-konkuk/24-25-study-js-deep-dive/pull/20) | 수요일   | 6:00 PM | [hanu9257](https://github.com/hanu9257)       |
 | 12  | 2025-02-05 | 26         | [ES6 함수의 추가 기능](https://github.com/gdsc-konkuk/24-25-study-js-deep-dive/pull/21) | 수요일   | 6:00 PM | [MinboyKim](https://github.com/MinboyKim)  |
-| 13  | 2025-02-xx | 27         | 배열                                        | x요일   | 6:00 PM |      | [zziglet](https://github.com/zziglet) 
+| 13  | 2025-02-xx | 27         | 배열                                        | x요일   | 6:00 PM |   [zziglet](https://github.com/zziglet) |
 | 14  | 2025-02-xx | 28, 29     | Number, Math                                  | x요일   | 6:00 PM | [songeunseo](https://github.com/songeunseo) |
 | 15  | 2025-03-xx | 30, 31     | Date와 Date.js, RegExp                                     | 금요일   | 5:00 PM |  [whddltjdwhd](https://github.com/whddltjdwhd)  |
 | 16  | 2025-03-xx | 32, 33     | String, Symbol                          | 금요일   | 5:00 PM |                                               |
